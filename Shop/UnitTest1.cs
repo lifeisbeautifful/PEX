@@ -12,7 +12,9 @@ namespace Shop
         {
             Driver = new ChromeDriver();
         }
-
+        /// <summary>
+        /// commit
+        /// </summary>
         [Test]
         public void MoveToCreateAccount()
         {
