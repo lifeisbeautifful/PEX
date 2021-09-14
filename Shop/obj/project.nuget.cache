@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cx/HLxcN3mZnwZkF0PwXnx+AVhu3me3w19JeDx8iVOr1oeODIiNplfeXa3IA3ctjB11+j5q4w+AUdBS662fyrg==",
+  "dgSpecHash": "c5Z4diosSQQtRqX49Hpsy6DukJJBSqO9QbL52VdYFa3wvlhmjJMfSQJ6oP2Kel3V3nVIIj1qzQofB/iUsdYk3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ognyp\\source\\repos\\Shop\\Shop\\Shop.csproj",
+  "projectFilePath": "C:\\Users\\ognyp\\Desktop\\Check\\PEX\\Shop\\Shop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ognyp\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\ognyp\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
