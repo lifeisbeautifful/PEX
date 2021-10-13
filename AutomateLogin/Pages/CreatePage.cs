@@ -13,7 +13,7 @@ namespace AutomateLogin.Pages
         {
             Driver = driver;
         }
-
+        int localVar=12;
         public IWebElement CreateNewBtn => Driver.FindElement(By.XPath("//a[text()='Create New']"));
         public IWebElement CreateLnk => Driver.FindElement(By.XPath("//input[@type='submit']"));
 
